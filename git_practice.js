@@ -7,3 +7,6 @@ console.log("How do you do?");
 console.log("After many tries i'm able to add ssh keys");
 console.log("ohh ok");
 console.log("now?");
+
+console.log("ak");
+console.log("bk");
